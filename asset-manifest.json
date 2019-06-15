@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-community-game/static/css/main.2cce8147.chunk.css",
+    "main.js": "/react-community-game/static/js/main.912e4a47.chunk.js",
+    "main.js.map": "/react-community-game/static/js/main.912e4a47.chunk.js.map",
+    "runtime~main.js": "/react-community-game/static/js/runtime~main.880905b0.js",
+    "runtime~main.js.map": "/react-community-game/static/js/runtime~main.880905b0.js.map",
+    "static/js/2.b41502e9.chunk.js": "/react-community-game/static/js/2.b41502e9.chunk.js",
+    "static/js/2.b41502e9.chunk.js.map": "/react-community-game/static/js/2.b41502e9.chunk.js.map",
+    "index.html": "/react-community-game/index.html",
+    "precache-manifest.7383f3184a448db2b3b26995452fb39c.js": "/react-community-game/precache-manifest.7383f3184a448db2b3b26995452fb39c.js",
+    "service-worker.js": "/react-community-game/service-worker.js",
+    "static/css/main.2cce8147.chunk.css.map": "/react-community-game/static/css/main.2cce8147.chunk.css.map",
+    "static/media/logo.svg": "/react-community-game/static/media/logo.5d5d9eef.svg"
+  }
+}
