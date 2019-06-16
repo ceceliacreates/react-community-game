@@ -1,50 +1,50 @@
 [
     {
         "id": 1,
-        "image": "../assets/abed.jpg"
+        "image": "https://i.imgur.com/l5HVFJf.jpg"
     },
     {
         "id": 2,
-        "image": "../assets/annie.jpg"
+        "image": "https://i.imgur.com/EkRHQP2.jpg"
     },
     {
         "id": 3,
-        "image": "../assets/betty.jpg"
+        "image": "https://i.imgur.com/TVUYE9f.jpg"
     },
     {
         "id": 4,
-        "image": "../assets/britta.jpg"
+        "image": "https://i.imgur.com/072aOsU.jpg"
     },
     {
         "id": 5,
-        "image": "../assets/chang.jpg"
+        "image": "https://i.imgur.com/Ghsvggb.jpg"
     },
     {
         "id": 6,
-        "image": "../assets/dean.jpg"
+        "image": "https://i.imgur.com/W7AbKAY.jpg"
     },
     {
         "id": 7,
-        "image": "../assets/fakedean.jpg"
+        "image": "https://i.imgur.com/G2JtI5b.jpg"
     },
     {
         "id": 8,
-        "image": "../assets/jeff.jpg"
+        "image": "https://i.imgur.com/3moHuki.jpg"
     },
     {
         "id": 9,
-        "image": "../assets/leonard.jpg"
+        "image": "https://i.imgur.com/KUud300.jpg"
     },
     {
         "id": 10,
-        "image": "../assets/pierce.jpg"
+        "image": "https://i.imgur.com/aYNiT0O.jpg"
     },
     {
         "id": 11,
-        "image": "../assets/shirley.jpg"
+        "image": "https://i.imgur.com/ByQk6tm.jpg"
     },
     {
         "id": 12,
-        "image": "../assets/troy.jpg"
+        "image": "https://i.imgur.com/X7mIZZu.jpg"
     }
 ]
