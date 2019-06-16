@@ -3,14 +3,22 @@
 }
 
 .header {
-  text-align: center;
-  font-size: 16pt;
-  color: darkblue;
+  justify-content: center;
 }
 
 .header img {
   display: block;
   margin: auto;
+  max-width: 100%;
+  height: auto;
+}
+
+.instructions {
+  padding: 10px;
+  font-size: 16pt;
+  display: flex;
+  justify-content: center;
+  color: darkblue;
 }
 
 .scores {
