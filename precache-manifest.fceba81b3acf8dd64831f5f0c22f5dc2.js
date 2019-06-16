@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "a3bcfd47222f1d07c654b0fdc94969ad",
+    "revision": "c4c331382068b0cea12d4850f1de46f8",
     "url": "/react-community-game/index.html"
   },
   {
-    "revision": "165ac20cd16306b06e12",
+    "revision": "dd23fb31d910c0538641",
     "url": "/react-community-game/static/css/main.2cce8147.chunk.css"
   },
   {
@@ -12,15 +12,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/react-community-game/static/js/2.b41502e9.chunk.js"
   },
   {
-    "revision": "165ac20cd16306b06e12",
-    "url": "/react-community-game/static/js/main.912e4a47.chunk.js"
+    "revision": "dd23fb31d910c0538641",
+    "url": "/react-community-game/static/js/main.01b8e96e.chunk.js"
   },
   {
     "revision": "8c06e5de45f50824933d",
     "url": "/react-community-game/static/js/runtime~main.880905b0.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/react-community-game/static/media/logo.5d5d9eef.svg"
   }
 ]);
