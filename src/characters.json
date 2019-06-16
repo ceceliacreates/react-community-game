@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "image": "../assets/abed.jpg"
+    },
+    {
+        "id": 2,
+        "image": "../assets/annie.jpg"
+    },
+    {
+        "id": 3,
+        "image": "../assets/betty.jpg"
+    },
+    {
+        "id": 4,
+        "image": "../assets/britta.jpg"
+    },
+    {
+        "id": 5,
+        "image": "../assets/chang.jpg"
+    },
+    {
+        "id": 6,
+        "image": "../assets/dean.jpg"
+    },
+    {
+        "id": 7,
+        "image": "../assets/fakedean.jpg"
+    },
+    {
+        "id": 8,
+        "image": "../assets/jeff.jpg"
+    },
+    {
+        "id": 9,
+        "image": "../assets/leonard.jpg"
+    },
+    {
+        "id": 10,
+        "image": "../assets/pierce.jpg"
+    },
+    {
+        "id": 11,
+        "image": "../assets/shirley.jpg"
+    },
+    {
+        "id": 12,
+        "image": "../assets/troy.jpg"
+    }
+]
