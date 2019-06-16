@@ -1,50 +1,62 @@
 [
     {
         "id": 1,
-        "image": "https://i.imgur.com/l5HVFJf.jpg"
+        "image": "https://i.imgur.com/l5HVFJf.jpg",
+        "name": "Abed"
     },
     {
         "id": 2,
-        "image": "https://i.imgur.com/EkRHQP2.jpg"
+        "image": "https://i.imgur.com/EkRHQP2.jpg",
+        "name": "Annie"
     },
     {
         "id": 3,
-        "image": "https://i.imgur.com/TVUYE9f.jpg"
+        "image": "https://i.imgur.com/TVUYE9f.jpg",
+        "name": "Betty"
     },
     {
         "id": 4,
-        "image": "https://i.imgur.com/072aOsU.jpg"
+        "image": "https://i.imgur.com/072aOsU.jpg",
+        "name": "Britta"
     },
     {
         "id": 5,
-        "image": "https://i.imgur.com/Ghsvggb.jpg"
+        "image": "https://i.imgur.com/Ghsvggb.jpg",
+        "name": "Chang"
     },
     {
         "id": 6,
-        "image": "https://i.imgur.com/W7AbKAY.jpg"
+        "image": "https://i.imgur.com/W7AbKAY.jpg",
+        "name": "Dean"
     },
     {
         "id": 7,
-        "image": "https://i.imgur.com/G2JtI5b.jpg"
+        "image": "https://i.imgur.com/G2JtI5b.jpg",
+        "name": "Fake Dean"
     },
     {
         "id": 8,
-        "image": "https://i.imgur.com/3moHuki.jpg"
+        "image": "https://i.imgur.com/3moHuki.jpg",
+        "name": "Jeff"
     },
     {
         "id": 9,
-        "image": "https://i.imgur.com/KUud300.jpg"
+        "image": "https://i.imgur.com/KUud300.jpg",
+        "name": "Leonard"
     },
     {
         "id": 10,
-        "image": "https://i.imgur.com/aYNiT0O.jpg"
+        "image": "https://i.imgur.com/aYNiT0O.jpg",
+        "name": "Pierce"
     },
     {
         "id": 11,
-        "image": "https://i.imgur.com/ByQk6tm.jpg"
+        "image": "https://i.imgur.com/ByQk6tm.jpg",
+        "name": "Shirley"
     },
     {
         "id": 12,
-        "image": "https://i.imgur.com/X7mIZZu.jpg"
+        "image": "https://i.imgur.com/X7mIZZu.jpg",
+        "name": "Troy"
     }
 ]
