@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-community-game/static/css/main.ee092179.chunk.css",
-    "main.js": "/react-community-game/static/js/main.912a1bc0.chunk.js",
-    "main.js.map": "/react-community-game/static/js/main.912a1bc0.chunk.js.map",
+    "main.css": "/react-community-game/static/css/main.24046271.chunk.css",
+    "main.js": "/react-community-game/static/js/main.2df8d65c.chunk.js",
+    "main.js.map": "/react-community-game/static/js/main.2df8d65c.chunk.js.map",
     "runtime~main.js": "/react-community-game/static/js/runtime~main.880905b0.js",
     "runtime~main.js.map": "/react-community-game/static/js/runtime~main.880905b0.js.map",
     "static/js/2.5cd7348e.chunk.js": "/react-community-game/static/js/2.5cd7348e.chunk.js",
     "static/js/2.5cd7348e.chunk.js.map": "/react-community-game/static/js/2.5cd7348e.chunk.js.map",
     "index.html": "/react-community-game/index.html",
-    "precache-manifest.05bff49501ab19e33d63c5cad5539650.js": "/react-community-game/precache-manifest.05bff49501ab19e33d63c5cad5539650.js",
+    "precache-manifest.4b1ad6d6dc7761b579251cdd01e45fdb.js": "/react-community-game/precache-manifest.4b1ad6d6dc7761b579251cdd01e45fdb.js",
     "service-worker.js": "/react-community-game/service-worker.js",
-    "static/css/main.ee092179.chunk.css.map": "/react-community-game/static/css/main.ee092179.chunk.css.map"
+    "static/css/main.24046271.chunk.css.map": "/react-community-game/static/css/main.24046271.chunk.css.map"
   }
 }
