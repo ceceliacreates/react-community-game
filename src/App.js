@@ -36,10 +36,18 @@ class App extends React.Component {
       [id]: 1,
       message: "Keep going!"
     });
+    this.checkTopScore(updatedScore);
   };
 
+  checkTopScore = (updatedScore) => {
+    if (updatedScore > this.state.topScore) {
+      this.setState({
+        topScore: updatedScore
+      })
+    }
+  }
+
   resetGame = () => {
-    console.log("resetGame is running!")
     this.setState({
       message: "Sorry, you Britta'd it! Click an image to start over.",
       currentScore: 0,
