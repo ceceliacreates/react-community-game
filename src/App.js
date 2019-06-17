@@ -28,7 +28,7 @@ class App extends React.Component {
     const id = "id" + event.target.id;
     if (this.state[id] === 1)
      {
-      this.resetGame();
+      return this.resetGame();
     }
     const updatedScore = this.state.currentScore + 1;
     this.setState({
@@ -39,6 +39,7 @@ class App extends React.Component {
   };
 
   resetGame = () => {
+    console.log("resetGame is running!")
     this.setState({
       message: "Sorry, you Britta'd it! Click an image to start over.",
       currentScore: 0,
